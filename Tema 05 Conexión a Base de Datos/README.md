@@ -56,6 +56,34 @@ Se enseña lo relevante al manejo de datos:
 	}
 ```
 
+## Otra Conexión con MySQL 8.0
+
+```java
+
+public class Main {
+    public static void main(String[] args) throws SQLException {
+        Connection myConn = null;        
+        String dbUrl = "jdbc:mysql://localhost:3306/demo_sqli?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+        String user = "username";
+        String pass = "password";
+        try {
+            myConn = DriverManager.getConnection(dbUrl, user, pass);
+            if (myConn != null) {
+                System.out.println("Connected to the database!");
+            } else {
+                System.out.println("Failed to make connection!");
+            }
+        } catch (SQLException e) {
+            System.err.format("SQL State: %s\n%s", e.getSQLState(), e.getMessage());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+
+```
+
 ## Creación de Statement
 
 ```java
