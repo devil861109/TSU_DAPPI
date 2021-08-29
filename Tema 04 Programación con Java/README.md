@@ -35,3 +35,4 @@ Manejo de Excepciones
 Colecciones https://beginnersbook.com/java-collections-tutorials/
 Introducción a Pruebas Unitarias
 
+Igual, se trabaja con el uso de Excepciones y el uso de Colecciones.
