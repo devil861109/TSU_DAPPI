@@ -1,7 +1,7 @@
 # Tema 04: Programación con Java
 
 Se da una introducción a Java (historia).\
-Se da un repaso del semestre pasado en POO.\
+Se da un repaso del semestre pasado en POO.
 
 Semestre pasado:
 * Una explicación de cómo trabaja a nivel de JVM.
