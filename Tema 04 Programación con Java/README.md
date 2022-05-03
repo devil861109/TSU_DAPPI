@@ -37,7 +37,7 @@ Semestre pasado:
 		* Palabra reservada final
 
 Semestre actual:\
-Tomando en consideración, que muchos de estos temas NO se vieron, se procede a dar un recorrido por:\
+Tomando en consideración, que muchos de estos temas NO se vieron, se procede a dar un recorrido por:
 * Inferencia de Tipos
 * Wrapper Classes
 * Memory Management
