@@ -1,7 +1,7 @@
 # Tema 04: Programación con Java
 
-Se da una introducción a Java (historia).
-Se da un repaso del semestre pasado en POO.
+Se da una introducción a Java (historia).\
+Se da un repaso del semestre pasado en POO.\
 
 Semestre pasado:
 * Una explicación de cómo trabaja a nivel de JVM.
@@ -11,7 +11,7 @@ Semestre pasado:
 * Uso de arreglos
 * Búsqueda, ordenamiento directo e indirecto
 * Paquetes
-* Archivos
+* Archivos\
 	Entrando a conceptos de POO:
 		* Clases
 		* Objetos
