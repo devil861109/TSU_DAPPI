@@ -36,8 +36,8 @@ Semestre pasado:
 		* Palabra reservada static
 		* Palabra reservada final
 
-Semestre actual:
-Tomando en consideración, que muchos de estos temas NO se vieron, se procede a dar un recorrido por:
+Semestre actual:\
+Tomando en consideración, que muchos de estos temas NO se vieron, se procede a dar un recorrido por:\
 * Inferencia de Tipos
 * Wrapper Classes
 * Memory Management
@@ -51,7 +51,6 @@ Tomando en consideración, que muchos de estos temas NO se vieron, se procede a 
 * Métodos Genéricos
 * Wildcards
 * Clases anónimas
-
 * Manejo de Excepciones
 * Colecciones https://beginnersbook.com/java-collections-tutorials/
 * Introducción a Pruebas Unitarias con JUnit
