@@ -11,8 +11,8 @@ Semestre pasado:
 * Uso de arreglos
 * Búsqueda, ordenamiento directo e indirecto
 * Paquetes
-* Archivos\
-	Entrando a conceptos de POO:
+* Archivos
+	* Entrando a conceptos de POO:
 		* Clases
 		* Objetos
 		* Instanciación
